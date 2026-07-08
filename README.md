@@ -1,4 +1,4 @@
-# 💫 Hi, I'm Fardeen:
+# Hi, I'm Fardeen:
 🎓 Master’s in Computer Science at the University of Southern California<br><br>👨🏻‍💻 Passionate about AI/ML research with a focus on Agentic AI, computer vision, and multimodal systems<br><br>💭 Currently learning about about MCP and LangGraph 
 
 
